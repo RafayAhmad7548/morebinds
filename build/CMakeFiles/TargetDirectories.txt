@@ -1,7 +1,0 @@
-/home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/morebinds.dir
-/home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/edit_cache.dir
-/home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/rebuild_cache.dir
-/home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/list_install_components.dir
-/home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/install.dir
-/home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/install/local.dir
-/home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/install/strip.dir
