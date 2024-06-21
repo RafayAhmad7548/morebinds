@@ -2,7 +2,7 @@
 name = "morebinds"
 authors = ["rafay"]
 commit-pins = [
-    ["9e781040d9067c2711ec2e9f5b47b76ef70762b3", "699bc9b80e347c290baf4d37576ab1c7693d4a8b"] # v0.41.1
+    ["9e781040d9067c2711ec2e9f5b47b76ef70762b3", "4dc7b6f2a9ad996aa67645923410a166c9d3c164"] # v0.41.1
 ]
 
 [morebinds]
