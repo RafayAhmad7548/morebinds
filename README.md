@@ -1,5 +1,22 @@
 # morebinds | A Hyprland plugin
 morebinds is a hyprland plugin that allows you to set keymaps for double tapping mod keys i.e. shift, ctrl, alt, esc, super. 
+## Installation
+### With hyprpm
+Run the following
+```
+hyprpm add git@github.com:RafayAhmad7548/morebinds.git
+hyprpm enable morebinds
+hyprpm reload
+```
+### Manually
+make sure you have hyprland headers installed, if you don't know how check the wiki.
+clone the repo and build it
+```
+git clone git@github.com:RafayAhmad7548/morebinds.git
+cd morebinds/build
+make
+hyprctl plugin load absolute/path/to/libmorebinds.so/in/morebinds/build
+```
 ## Configuration
 The delay after in which a double tap will be registered is configurable and can be changed as follows in the hyprland.conf
 ```
