@@ -1,0 +1,14 @@
+[repository]
+name = "morebinds"
+authors = ["rafay"]
+commit-pins = [
+    ["9e781040d9067c2711ec2e9f5b47b76ef70762b3", ""]
+]
+
+[plugin-name]
+description = "a plugin that allows you to set binds for double tapping mod keys"
+authors = ["rafay"]
+output = "build/libmorebinds.so"
+build = [
+    "make -C build/"
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rafayahmad/Stuff/Coding/C++/morebinds/build",
+  "command": "/usr/bin/c++ -DWLR_USE_UNSTABLE -Dmorebinds_EXPORTS -isystem /usr/local/include/hyprland/protocols -isystem /usr/local/include/hyprland -isystem /usr/local/include/hyprland/wlr -isystem /usr/include/libdrm -isystem /usr/include/pango-1.0 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/harfbuzz -isystem /usr/include/freetype2 -isystem /usr/include/pixman-1 -isystem /usr/include/libpng16 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/sysprof-6 -isystem /usr/include/fribidi -g -std=gnu++23 -fPIC -pthread -fmodules-ts -fmodule-mapper=CMakeFiles/morebinds.dir/CMakeFiles/3.29.5/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/morebinds.dir/CMakeFiles/3.29.5/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/3.29.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/rafayahmad/Stuff/Coding/C++/morebinds/build/CMakeFiles/3.29.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "output": "CMakeFiles/morebinds.dir/CMakeFiles/3.29.5/CompilerIdCXX/CMakeCXXCompilerId.cpp.o"
+},
+{
+  "directory": "/home/rafayahmad/Stuff/Coding/C++/morebinds/build",
+  "command": "/usr/bin/c++ -DWLR_USE_UNSTABLE -Dmorebinds_EXPORTS -isystem /usr/local/include/hyprland/protocols -isystem /usr/local/include/hyprland -isystem /usr/local/include/hyprland/wlr -isystem /usr/include/libdrm -isystem /usr/include/pango-1.0 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/harfbuzz -isystem /usr/include/freetype2 -isystem /usr/include/pixman-1 -isystem /usr/include/libpng16 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/sysprof-6 -isystem /usr/include/fribidi -g -std=gnu++23 -fPIC -pthread -fmodules-ts -fmodule-mapper=CMakeFiles/morebinds.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/morebinds.dir/main.cpp.o -c /home/rafayahmad/Stuff/Coding/C++/morebinds/main.cpp",
+  "file": "/home/rafayahmad/Stuff/Coding/C++/morebinds/main.cpp",
+  "output": "CMakeFiles/morebinds.dir/main.cpp.o"
+}
+]

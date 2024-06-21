@@ -6,7 +6,6 @@
 
 #include <chrono>
 #include <cstring>
-#include "keyinfo.cpp"
 
 inline HANDLE PHANDLE = nullptr;
 
