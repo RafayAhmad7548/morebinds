@@ -5,7 +5,7 @@ commit-pins = [
     ["9e781040d9067c2711ec2e9f5b47b76ef70762b3", "699bc9b80e347c290baf4d37576ab1c7693d4a8b"] # v0.41.1
 ]
 
-[plugin-name]
+[morebinds]
 description = "a plugin that allows you to set binds for double tapping mod keys"
 authors = ["rafay"]
 output = "build/libmorebinds.so"
